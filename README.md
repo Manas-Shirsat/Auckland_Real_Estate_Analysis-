@@ -19,7 +19,8 @@ Data Modelling
 - Barfoot and thompson website
 
 ## Dashboard Preview
-<img width="1297" height="726" alt="image" src="https://github.com/user-attachments/assets/6e92047e-4b22-4dbc-a080-2c13238e7ea4" />
+<img width="1310" height="735" alt="image" src="https://github.com/user-attachments/assets/e174af43-56c2-441a-96c6-cd63e96173a1" />
+
 
 
 ## Files
