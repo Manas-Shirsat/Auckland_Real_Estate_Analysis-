@@ -5,6 +5,8 @@ An interactive Power BI dashboard analysing Auckland housing market trends inclu
 This project explores housing affordability, rental yield, and regional market dynamics using data modelling and DAX-driven analytics.
 
 ---
+## 📊 Dashboard Preview
+![Dashboard](market-overview.png)
 
 # 🛠 Tools & Technologies
 
@@ -27,10 +29,16 @@ Real Estate Market Analysis
 
 ---
 
-# 📊 Dashboard Preview
+# 📊 Dashboard Screenshots
 
-<img width="1310" height="735" alt="Dashboard- Market Overview" src="https://github.com/user-attachments/assets/47c21307-dc52-4bbe-94a4-3b4f4db715ff" />
+## 🏙 Market Overview
+<img src="market-overview.png" width="800"/>
 
+## 💰 Investment Analysis
+<img src="investment-analysis.png" width="800"/>
+
+## 📍 Suburb Analysis
+<img src="suburb-analysis.png" width="800"/>
 
 ---
 
@@ -156,6 +164,8 @@ The dashboard allows users to:
 
 Developed an interactive Power BI dashboard enabling exploration of Auckland’s housing market trends from 2021–2025 through dynamic filtering, region-level insights, and investment-oriented metrics.
 
+# 🏙 Market Overview
+Shows declining sale prices and rising rents, indicating improving rental yield.
 ---
 
 # 📂 Repository Contents
