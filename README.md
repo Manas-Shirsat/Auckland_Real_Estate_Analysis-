@@ -6,7 +6,8 @@ This project explores housing affordability, rental yield, and regional market d
 
 ---
 ## 📊 Dashboard Preview
-![Dashboard](market-overview.png)
+<img width="1120" height="628" alt="Market Overview" src="https://github.com/user-attachments/assets/fd33c8ae-2a2a-407a-9f14-69fda92780ae" />
+
 
 # 🛠 Tools & Technologies
 
@@ -32,13 +33,19 @@ Real Estate Market Analysis
 # 📊 Dashboard Screenshots
 
 ## 🏙 Market Overview
-<img src="market-overview.png" width="800"/>
+<img width="1120" height="628" alt="Market Overview" src="https://github.com/user-attachments/assets/30991e5c-9242-4095-9e50-9fadbca454f0" />
+<img width="1120" height="628" alt="Market Overview" src="https://github.com/user-attachments/assets/30991e5c-9242-4095-9e50-9fadbca454f0" />
+
 
 ## 💰 Investment Analysis
-<img src="investment-analysis.png" width="800"/>
+<img width="1122" height="632" alt="Investment Analysis" src="https://github.com/user-attachments/assets/f68baba9-20a8-43ac-acfa-ed5e36185361" />
+<img width="1122" height="632" alt="Investment Analysis" src="https://github.com/user-attachments/assets/f68baba9-20a8-43ac-acfa-ed5e36185361" />
+
 
 ## 📍 Suburb Analysis
-<img src="suburb-analysis.png" width="800"/>
+<img width="1122" height="637" alt="Suburb Analysis" src="https://github.com/user-attachments/assets/057bbae5-2546-48c7-a71e-f5bfdda2250b" />
+<img width="1122" height="637" alt="Suburb Analysis" src="https://github.com/user-attachments/assets/057bbae5-2546-48c7-a71e-f5bfdda2250b" />
+
 
 ---
 
