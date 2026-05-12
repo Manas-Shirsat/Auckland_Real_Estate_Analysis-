@@ -1,15 +1,15 @@
-# 📊 Auckland Housing Market Analysis – Power BI
+# Auckland Housing Market Analysis – Power BI
 
 An interactive Power BI dashboard analysing Auckland housing market trends including sale prices, rental prices, and regional activity from 2021–2025.
 
 This project explores housing affordability, rental yield, and regional market dynamics using data modelling and DAX-driven analytics.
 
 ---
-## 📊 Dashboard Preview
+## Dashboard Preview
 <img width="1120" height="630" alt="Market Overview" src="https://github.com/user-attachments/assets/fd33c8ae-2a2a-407a-9f14-69fda92780ae" />
 
 
-# 🛠 Tools & Technologies
+# Tools & Technologies
 
 Power BI  
 Power Query (ETL)  
@@ -19,7 +19,7 @@ Data Visualization
 
 ---
 
-# ⭐ Key Skills Demonstrated
+# Key Skills Demonstrated
 
 Data Cleaning  
 Data Transformation  
@@ -30,24 +30,24 @@ Real Estate Market Analysis
 
 ---
 
-# 📊 Dashboard Screenshots
+# Dashboard Screenshots
 
-## 🏙 Market Overview
+## Market Overview
 <img width="1120" height="630" alt="Market Overview" src="https://github.com/user-attachments/assets/30991e5c-9242-4095-9e50-9fadbca454f0" />
 
 
 
-## 💰 Investment Analysis
+##  Investment Analysis
 <img width="1120" height="630" alt="Investment Analysis" src="https://github.com/user-attachments/assets/f68baba9-20a8-43ac-acfa-ed5e36185361" />
 
 
-## 📍 Suburb Analysis
+##  Suburb Analysis
 <img width="1120" height="630" alt="Suburb Analysis" src="https://github.com/user-attachments/assets/057bbae5-2546-48c7-a71e-f5bfdda2250b" />
 
 
 ---
 
-# 📊 Data Source
+#  Data Source
 
 Housing market data used in this analysis was sourced from monthly market reports published by Barfoot & Thompson, one of Auckland’s largest real estate agencies.
 
@@ -62,7 +62,7 @@ Data covers the period **2021–2025** and was processed and transformed for ana
 
 Source: Barfoot & Thompson Monthly Housing Market Reports
 
-# 🗂 Data Preparation & Cleaning
+#  Data Preparation & Cleaning
 
 Collected monthly Auckland housing market data (2021–2025) from Barfoot & Thompson market reports including:
 
@@ -81,7 +81,7 @@ Data preparation steps included:
 
 ---
 
-# 🧱 Data Modeling
+#  Data Modeling
 
 Built a **star schema data model**.
 
@@ -103,7 +103,7 @@ Relationships created between dimension tables and fact tables enabling efficien
 
 ---
 
-# 📐 DAX Measures
+#  DAX Measures
 
 Key analytical measures created:
 
@@ -116,7 +116,7 @@ Key analytical measures created:
 
 ----
 
-# 📊 Interactive Dashboard Features
+#  Interactive Dashboard Features
 
 ### KPI Cards
 
@@ -143,7 +143,7 @@ Pie charts comparing sales vs rental volume
 
 ---
 
-# 🎨 Visualization & UX Enhancements
+#  Visualization & UX Enhancements
 
 • Consistent region-based colour palette  
 • Conditional formatting using DAX measures  
@@ -153,7 +153,7 @@ Pie charts comparing sales vs rental volume
 
 ---
 
-# 🔍 Insights Enabled
+#  Insights Enabled
 
 The dashboard allows users to:
 
@@ -165,15 +165,15 @@ The dashboard allows users to:
 
 ---
 
-# 🚀 Project Outcome
+#  Project Outcome
 
 Developed an interactive Power BI dashboard enabling exploration of Auckland’s housing market trends from 2021–2025 through dynamic filtering, region-level insights, and investment-oriented metrics.
 
-# 🏙 Market Overview
+#  Market Overview
 Shows declining sale prices and rising rents, indicating improving rental yield.
 ---
 
-# 📂 Repository Contents
+#  Repository Contents
 
 Power BI Dashboard (.pbix)  
 Dataset  
